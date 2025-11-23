@@ -22,7 +22,7 @@ STEP 6
 Execute the program using runserver command.
 
 PROGRAM
-<html>
+```<html>
 <head>
     <title>Document</title>
     <center>
@@ -114,6 +114,7 @@ PROGRAM
     </Table>
 </body>
 </html>
+```
 
 OUTPUT
 <img width="1024" height="587" alt="image" src="https://github.com/user-attachments/assets/4af9bc8d-d9c5-4fa7-b6b7-3205135784ec" />
